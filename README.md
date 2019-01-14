@@ -4,64 +4,6 @@
 <head>
   
         <script>
-            // BEAT MESSAGE
-            var wixBiSession = {
-                requestId: (function(r){for(var t=document.cookie.split(';'),e=0;e<t.length;e++){for(var n=t[e].split('='),o=n[0],u=n[1];' '===o[0];)o=o.substr(1);if(r===o)return u}return''})('requestId'),
-                viewerSessionId: 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {
-                    var r = Math.random() * 16 | 0, v = c == 'x' ? r : (r & 0x3 | 0x8);
-                    return v.toString(16);
-                })
-                , initialTimestamp: Date.now()
-                , visitorId: 'c8d1e294-37f7-46f8-9891-e4db4e0d890b'
-                
-                , is_rollout: 0
-                , is_platform_loaded: 1
-                , dc: '84'
-                , sendBeacon: /(\?|\&)suppressbi\=true(\&|$)/.test(location.search) ?
-                    function () {} :
-                    function(url) {
-                        var sent = false;
-                        try {
-                            sent = navigator.sendBeacon(url);
-                        } catch (e) {}
-                        if (!sent) {
-                            (new Image()).src = url;
-                        }
-                    }
-                , sendBeat: function (et, name, extra) {
-                    var tts = '';
-                    if (window.performance) {
-                        if (performance.now) {
-                            tts = '&tts=' + Math.round(performance.now());
-                        }
-                        if (name && performance.mark) {
-                            performance.mark(name + ' (beat ' + et + ')');
-                        }
-                    }
-                    var ts = et === 1 ? 0 : Date.now() - wixBiSession.initialTimestamp;
-                    wixBiSession.sendBeacon(
-                        'https://frog.wix.com/bt?src=29&evid=3'
-                        + '&pn=1'
-                        + '&et=' + et
-                        + (name ? '&event_name=' + encodeURIComponent(name) : '')
-                        + '&v=1.5957.17'
-                        + '&msid=df2efc6c-8fc9-43b6-a0ed-cdcdc6142dc0'
-                        + '&vsi=' + wixBiSession.viewerSessionId
-                        + '&isp=0'
-                        + '&st=2'
-                        + '&ts=' + ts + tts
-                        + '&iss=1'
-                            + '&vid=' + wixBiSession.visitorId
-                        + '&is_rollout=0'
-                        + '&dc=84'
-                            
-                        + '&url=' + encodeURIComponent(location.href.replace(/^http(s)?:\/\/(www\.)?/, ''))
-                        + (extra ? extra : '')
-                    );
-                }
-            };
-            wixBiSession.sendBeat(1, 'Init');
-            // BEAT MESSAGE END
         </script>
     
     
@@ -166,8 +108,6 @@
     
     
         <meta property="og:title" content="Home | TrophyFM"/>
-    
-        <meta property="og:url" content="https://76jazzbones.wixsite.com/trophyfm"/>
     
         <meta property="og:type" content="article"/>
     
