@@ -7,7 +7,7 @@
       <meta name="description" content="Truckers.FM is an online radio dedicated to the online trucking community.">
       <meta name="tags" content="truckersfm, truckers fm, tfm, eurotruckradio, etr, euro truck radio, euro truck simulator, ets, euro truck simulator 2, ets2, ets2mp, american truck simulator, ats, atsmp, radio, online radio, simulator radio, community radio, multiplayer radio, trucksimradio, truck sim radio, truckersmp">
       <meta name="author" content="TruckersFM">
-	  <link rel="author" href="humans.txt" />
+	  <link rel="shortcut icon" href="favicon.png" />
       <link rel="alternate" href="" />
       <link rel="alternate" href="" />
       <title>TrophyFM</title>
