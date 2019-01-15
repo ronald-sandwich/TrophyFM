@@ -1,41 +1,4 @@
 <!DOCTYPE html>
-<!--
- ________                              __                                      ________  __       __
-|        \                            |  \                                    |        \|  \     /  \
- \$$$$$$$$______   __    __   _______ | $$   __   ______    ______    _______ | $$$$$$$$| $$\   /  $$
-   | $$  /      \ |  \  |  \ /       \| $$  /  \ /      \  /      \  /       \| $$__    | $$$\ /  $$$
-   | $$ |  $$$$$$\| $$  | $$|  $$$$$$$| $$_/  $$|  $$$$$$\|  $$$$$$\|  $$$$$$$| $$  \   | $$$$\  $$$$
-   | $$ | $$   \$$| $$  | $$| $$      | $$   $$ | $$    $$| $$   \$$ \$$    \ | $$$$$   | $$\$$ $$ $$
-   | $$ | $$      | $$__/ $$| $$_____ | $$$$$$\ | $$$$$$$$| $$       _\$$$$$$\| $$      | $$ \$$$| $$
-   | $$ | $$       \$$    $$ \$$     \| $$  \$$\ \$$     \| $$      |       $$| $$      | $$  \$ | $$
-    \$$  \$$        \$$$$$$   \$$$$$$$ \$$   \$$  \$$$$$$$ \$$       \$$$$$$$  \$$       \$$      \$$
-
-
-
-   __  __     __          _______                   __  __
-  |  \|  \  _/  \        |       \                 |  \|  \
- _| $$| $$_|   $$        | $$$$$$$\  ______    ____| $$ \$$  ______
-|   $$  $$ \\$$$$        | $$__| $$ |      \  /      $$|  \ /      \
- \$$$$$$$$$$ | $$        | $$    $$  \$$$$$$\|  $$$$$$$| $$|  $$$$$$\
-|   $$  $$ \ | $$        | $$$$$$$\ /      $$| $$  | $$| $$| $$  | $$
- \$$$$$$$$$$_| $$_       | $$  | $$|  $$$$$$$| $$__| $$| $$| $$__/ $$
-  | $$| $$ |   $$ \      | $$  | $$ \$$    $$ \$$    $$| $$ \$$    $$
-   \$$ \$$  \$$$$$$       \$$   \$$  \$$$$$$$  \$$$$$$$ \$$  \$$$$$$
-
-
-
-                           ________                              __                                      __       __  _______
-                          |        \                            |  \                                    |  \     /  \|       \
-  ______   _______         \$$$$$$$$______   __    __   _______ | $$   __   ______    ______    _______ | $$\   /  $$| $$$$$$$\
- /      \ |       \          | $$  /      \ |  \  |  \ /       \| $$  /  \ /      \  /      \  /       \| $$$\ /  $$$| $$__/ $$
-|  $$$$$$\| $$$$$$$\         | $$ |  $$$$$$\| $$  | $$|  $$$$$$$| $$_/  $$|  $$$$$$\|  $$$$$$\|  $$$$$$$| $$$$\  $$$$| $$    $$
-| $$  | $$| $$  | $$         | $$ | $$   \$$| $$  | $$| $$      | $$   $$ | $$    $$| $$   \$$ \$$    \ | $$\$$ $$ $$| $$$$$$$
-| $$__/ $$| $$  | $$         | $$ | $$      | $$__/ $$| $$_____ | $$$$$$\ | $$$$$$$$| $$       _\$$$$$$\| $$ \$$$| $$| $$
- \$$    $$| $$  | $$         | $$ | $$       \$$    $$ \$$     \| $$  \$$\ \$$     \| $$      |       $$| $$  \$ | $$| $$
-  \$$$$$$  \$$   \$$          \$$  \$$        \$$$$$$   \$$$$$$$ \$$   \$$  \$$$$$$$ \$$       \$$$$$$$  \$$      \$$ \$$
-
-
--->
 <html lang="en">
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -45,9 +8,9 @@
       <meta name="tags" content="truckersfm, truckers fm, tfm, eurotruckradio, etr, euro truck radio, euro truck simulator, ets, euro truck simulator 2, ets2, ets2mp, american truck simulator, ats, atsmp, radio, online radio, simulator radio, community radio, multiplayer radio, trucksimradio, truck sim radio, truckersmp">
       <meta name="author" content="TruckersFM">
 	  <link rel="author" href="humans.txt" />
-      <link rel="alternate" href="http://truckers.fm" hreflang="en-us" />
-      <link rel="alternate" href="http://truckers.fm" hreflang="en-GB" />
-      <title>Truckers.FM - Your Drive, Your Music</title>
+      <link rel="alternate" href="" />
+      <link rel="alternate" href="" />
+      <title>TrophyFM</title>
       <!-- Bootstrap CSS -->
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
       <!-- Icon Packs -->
