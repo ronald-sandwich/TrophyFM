@@ -4,51 +4,12 @@
                 <meta charset=utf-8 />
                 <title>TrophyFM | Home</title>
                 <link rel = "shortcut icon" href= "favicon.png" />
-       
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+        >
         </head>
+        
+      
+        
+        
         
 <!DOCTYPE html>
 <html lang="en">
@@ -78,11 +39,7 @@
     
     
     
-    
-    
-    
-    
-    
+
     
     <script type="text/javascript">
       var santaBase = 'https://static.parastorage.com/services/santa/1.5957.17';
