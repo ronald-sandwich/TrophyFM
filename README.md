@@ -3,7 +3,7 @@
         <head>
                 <meta charset=utf-8 />
                 <title>TrophyFM | Home</title>
-                <link rel = "shortcut icon" href= "favicon.png" />
+                <link rel="shortcut icon" href="favicon.png" type="image/png" />
         >
         </head>
         
