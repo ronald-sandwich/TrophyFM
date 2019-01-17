@@ -2,7 +2,7 @@
 <html lang="en">
         <head>
                 <meta charset=utf-8 />
-                <title>|TrophyFM|</title>
+                <title>TrophyFM | Home</title>
                 <link rel = "shortcut icon" href= "favicon.png" />
        
         
@@ -53,14 +53,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  
-        <script>
-        </script>
-    
-    
-    
-    
-    
     <!-- META DATA -->
     <script type="text/javascript">
       
